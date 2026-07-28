@@ -62,7 +62,7 @@ Building scalable web applications, exploring artificial intelligence, and creat
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=amirgirani&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
