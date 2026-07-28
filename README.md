@@ -2,7 +2,7 @@
 
 # Hey, I'm Amir 👋
 
-### Software Engineer • AI Enthusiast • Django Developer
+### full stack developer • AI Enthusiast • system designer
 
 Building scalable web applications, exploring artificial intelligence, and creating products with great user experience.
 
@@ -97,7 +97,7 @@ System Design            ████████████░░░░░░ 
 
 <p>
 
-<a href="https://linkedin.com/in/amir-gorani-a3b21a3b1">
+<a href="https://linkedin.com/in/amir-girani-a3b21a3b1">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
