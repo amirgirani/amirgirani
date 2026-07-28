@@ -1,11 +1,122 @@
-<h1 align="center">Hi 👋, I'm Amir Gorani</h1>
-<h3 align="center">i am a full stack developer with 4 years exprience</h3>
+<div align="center">
 
-- 📫 How to reach me **amirgorani466@gmail.com**
+# Hey, I'm Amir 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Software Engineer • AI Enthusiast • Django Developer
+
+Building scalable web applications, exploring artificial intelligence, and creating products with great user experience.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=2000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Backend+Developer;Django+%7C+Python+%7C+PostgreSQL;AI+%26+Machine+Learning+Learner;Always+Building+Something+New"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+- 💻 Backend Developer focused on **Django**
+- 🤖 Currently learning **Artificial Intelligence & Machine Learning**
+- 🌐 Passionate about building modern web applications
+- 📚 Constantly learning new technologies
+- 🎯 Goal: Build products that impact millions
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,postgres,redis,docker" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,figma" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🏥 Clinic Management System | Enterprise Django Project |
+| 🌐 Portfolio Website | Modern Personal Portfolio |
+| 🤖 AI Experiments | ML, NLP and LLM Projects |
+| 📦 Django Packages | Open Source Utilities |
+
+---
+
+# 📈 Current Focus
+
+```text
+Backend Development      ████████████████████ 100%
+
+Artificial Intelligence  ████████████████░░░ 80%
+
+Machine Learning         ██████████████░░░░░ 70%
+
+System Design            ████████████░░░░░░ 60%
+```
+
+---
+
+# 🌍 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/amir-gorani-a3b21a3b1">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/amirgirani">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:amirgorani466@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Great software is built one commit at a time."
+
+⭐ Thanks for visiting my profile!
+
+</div>
